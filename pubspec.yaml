@@ -1,0 +1,25 @@
+name: tp2_provis
+description: A Flutter application for managing appointments
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+    
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/icon/ARROW_LEFT.png
+    - assets/icon/ARROW_RIGHT.png
+    - assets/icon/CANCEL.png
+    - assets/icon/FILTER.png
+    - assets/icon/SEARCH.png
+    - assets/icon/PROFIL.png
+
